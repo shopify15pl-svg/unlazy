@@ -5,3 +5,6 @@
 .claude/settings.json.unlazy.bak
 *.tmp
 node_modules/
+
+# Leadlisten mit Kontaktdaten nie committen
+output/
